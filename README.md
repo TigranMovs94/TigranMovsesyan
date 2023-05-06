@@ -1,6 +1,7 @@
 # Hello, I'm Tigran! 👋
 
-![banner image](![fetup](https://user-images.githubusercontent.com/90642996/236646036-9fca23cb-b09f-42cd-b0b3-b9635794e02f.JPG)) <!-- You can replace this with a personalized banner image if you'd like -->
+![banner image](https://www.musicgateway.com/assets/img/pages/gaming-setup.jpg)
+ <!-- You can replace this with a personalized banner image if you'd like -->
 
 I'm a passionate and creative computer science student. I'm constantly learning and exploring new technologies to create amazing projects and solve complex problems.
 
@@ -30,7 +31,7 @@ I'm a passionate and creative computer science student. I'm constantly learning 
 <!-- Add your contact information, such as email, LinkedIn, Twitter, etc. -->
 
 - Email: [tigranmovs94@gmail.com](mailto:tigranmovs94@gmail.com)
-- LinkedIn: [linkedin](https://www.linkedin.com/in/tigran-movsesyan-47197915b/)
+- LinkedIn: [Tigran Movsesyan](https://www.linkedin.com/in/tigran-movsesyan-47197915b/)
 
 
 <!-- You can add more sections to describe your projects, experience, or anything else you'd like to include -->

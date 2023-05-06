@@ -1,6 +1,6 @@
 # Hello, I'm Tigran! 👋
 
-![banner image](https://www.musicgateway.com/assets/img/pages/gaming-setup.jpg)
+![banner image](https://user-images.githubusercontent.com/90642996/236646206-055bf53d-03f6-4cca-a244-f34a1d2d4ca0.png)
  <!-- You can replace this with a personalized banner image if you'd like -->
 
 I'm a passionate and creative computer science student. I'm constantly learning and exploring new technologies to create amazing projects and solve complex problems.
